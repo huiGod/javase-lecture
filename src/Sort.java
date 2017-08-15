@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class Sort {
 
     public static void main(String[] args) {
         int[] data = new int[]{7,4,2,6,9,3,10,5};
